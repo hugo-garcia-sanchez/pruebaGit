@@ -1,3 +1,5 @@
+--cambio v2
+
 -- Drop the database if it already exists
 DROP DATABASE IF EXISTS GameDB;
 
